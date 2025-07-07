@@ -13,8 +13,3 @@ This project demonstrates how to provision AWS infrastructure using Terraform. I
 - Configures an Application Load Balancer across multiple subnets
 - Auto Scaling Group for fault tolerance
 - Security groups for network access control
-
-## Prerequisites
-- Terraform installed (version X.X.X or later)
-- AWS CLI configured with your credentials
-- An AWS account with sufficient permissions
