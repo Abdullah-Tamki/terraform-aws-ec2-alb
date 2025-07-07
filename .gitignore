@@ -1,0 +1,15 @@
+# Ignore Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+
+# Ignore AWS credentials (if they exist)
+.aws/
+.env
+
+# Ignore any sensitive files or local overrides
+*.tfvars
+*.pem
+
+# Ignore Images and scripts 
+banner icon.png
